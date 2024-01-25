@@ -8,11 +8,12 @@ write models in models.py file and register models in admin
 ```
 
 ```commandline
-python manage.py createsuperuser
+python manage.py createsuperuserE
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 ```
+
 
 ```commandline
 
